@@ -17,3 +17,7 @@ this is the deployement section
 ## How to Contribute
 
 steps
+
+## Copyright
+
+copyright 2020
