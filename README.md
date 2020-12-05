@@ -16,7 +16,7 @@ this is the deployement section
 
 ## How to Contribute
 
-steps
+please fork this repo and then issue pull request for review
 
 ## Copyright
 
