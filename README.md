@@ -21,4 +21,4 @@ please fork this repo and then issue pull request for review
 
 ## Copyright
 
-copyright 2020
+copyright 2020. all rightd reserved
